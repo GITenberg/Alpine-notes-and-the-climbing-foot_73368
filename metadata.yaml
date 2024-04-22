@@ -1,11 +1,16 @@
 _repo: Alpine-notes-and-the-climbing-foot_73368
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 73368-h/images/cover.jpg
 creator:
   author:
     agent_name: Wherry, George
     gutenberg_agent_id: '57046'
     url: http://www.gutenberg.org/2009/agents/57046
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73368#Alpine-notes-and-the-climbing-foot
 gutenberg_issued: '2024-04-10'
 gutenberg_type: Text
 identifiers:
